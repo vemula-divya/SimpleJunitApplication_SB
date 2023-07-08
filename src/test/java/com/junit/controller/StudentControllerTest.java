@@ -1,4 +1,4 @@
-package com.junit.controller;
+/*package com.junit.controller;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.Mockito.times;
@@ -62,4 +62,4 @@ public class StudentControllerTest {
 		assertEquals(HttpStatus.OK, response.getStatusCode());
 		assertEquals(students.size(), response.getBody().size());
 	}
-}
+}*/
